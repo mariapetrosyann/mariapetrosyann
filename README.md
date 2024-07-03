@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mariapetrosyann
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on any project connected to Data Analysis, ML, DL
+- 📫 How to reach me. email: mariaapetrosian@gmail.com  telegram: @mariaapetrosyan
